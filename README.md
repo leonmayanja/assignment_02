@@ -131,4 +131,4 @@ https://localhost:5500/em
 
 ## Conclusion
 
-This repository covers essential tasks for managing Oracle Pluggable Databases and configuring Oracle Enterprise Manager. This `README.md` file is designed to be comprehensive and provides detailed explanations of each step and SQL command used. Let me know if you'd like to tweak any details!
+This repository covers essential tasks for managing Oracle Pluggable Databases and configuring Oracle Enterprise Manager. This `README.md` file is designed to be comprehensive and provides detailed explanations of each step and SQL command used.
