@@ -116,7 +116,7 @@ STARTUP;
 
 - **Connect to PDB**: Use `sqlplus` to connect to the PDB `plsql_class2024db`.
 - **Check Root Container**: Run `SHOW CON_NAME` to verify if you are connected to the root container.
-- **Enable Ports**: If the HTTP/HTTPS ports are disabled, set them using the `DBMS_XDB_CONFIG` package to enable HTTP on port `8080` and optionally HTTPS on `8443`.
+- **Enable Ports**: If the HTTP/HTTPS ports are disabled, set them using the `DBMS_XDB_CONFIG` package to enable HTTP on port `8080` and optionally HTTPS on `5500`.
 - **Restart the Database**: Use the `SHUTDOWN IMMEDIATE` and `STARTUP` commands to restart the database after configuring the ports.
 
 ### Accessing Oracle Enterprise Manager
